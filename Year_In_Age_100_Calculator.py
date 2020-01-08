@@ -25,3 +25,4 @@ def play():
     time.sleep(4)
 
 play()
+play()
