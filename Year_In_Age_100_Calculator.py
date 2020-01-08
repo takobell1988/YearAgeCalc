@@ -26,3 +26,4 @@ def play():
 
 play()
 play()
+play()
