@@ -24,5 +24,5 @@ def play():
     calculate(age_and_name[0], age_and_name[1])
     time.sleep(4)
 
-play()
+
 play()
