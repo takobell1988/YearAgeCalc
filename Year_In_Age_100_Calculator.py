@@ -26,5 +26,3 @@ def play():
 
 
 play()
-#add more play
-play()
