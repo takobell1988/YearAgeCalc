@@ -18,15 +18,15 @@ def get_user_input():
 # get_user_input()
 
 
-def devided_of_not():
+def divided_of_not():
     num = float(input("enter a number : "))
-    num_to_devision = float(input("enter a number to devide by : "))
-    modulo_value = num % num_to_devision
+    num_to_division = float(input("enter a number to divide by : "))
+    modulo_value = num % num_to_division
     print(str(modulo_value))
     if modulo_value == 0:
-        print("deviding perfectly !")
+        print("divisible perfectly !")
     else:
-        print("no deviding!")
+        print("no divisible!")
 
 
-devided_of_not()
+divided_of_not()
