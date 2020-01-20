@@ -1,6 +1,7 @@
 import datetime
 import time
 
+
 def get_user_inputs():
     name = input("Whats your name? : ")
     age = input("Whats your age ? : ")
